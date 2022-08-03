@@ -207,3 +207,8 @@ a:hover {
   text-decoration: underline;
   color: #03359d;
 }
+.author {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 18px;
+}
